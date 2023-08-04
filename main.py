@@ -1,3 +1,5 @@
+# FPSBoostPro.exe Source Code
+
 import os
 import requests
 import subprocess
