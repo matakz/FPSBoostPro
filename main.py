@@ -1,4 +1,5 @@
 # FPSBoostPro.exe Source Code
+# If you suspect the FPSBoostPro.exe, use it.
 
 import os
 import requests
