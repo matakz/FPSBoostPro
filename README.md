@@ -40,7 +40,7 @@ FPSBoostPro will double your original FPS (Frames Per Second).
 ```http
   Before use FPSBoostPro
 ```
-![image](https://daspeller4.xyz/drive/file/431/7f508545571b83a8536e0d3e2667c92b/2023-08-05%20011912.png)
+![image](https://daspeller4.xyz/drive/file/431/cbc83b7478d87e8d0315bdf6d0257ac5/2023-08-05%20011912.png)
 
 ```http
   After use FPSBoostPro (don't close FPSBoostPro)
